@@ -1,7 +1,7 @@
 ### Hi there, my name is Oscar 👋
 
 - 🌱 I’m currently learning a lot of stuff 
-- 📫 How to reach me 🚀 [Site](https://osdiazl.cl/)<br>
+- 📫 How to reach me 🚀 [Portfolio](https://osdiazl.cl/)<br>
 - 🤔 I’m interested in coding, video games and meet people
 
 <!--
