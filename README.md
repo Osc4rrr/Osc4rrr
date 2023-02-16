@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning a lot of stuff 
 - 📫 How to reach me 🚀 [Portfolio](https://osdiazl.cl/)<br>
-- 🤔 I’m interested in coding, video games and meet people
+- 🤔 I’m interested in coding, video games and movies 
 
 <!--
 **Osc4rrr/osc4rrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
