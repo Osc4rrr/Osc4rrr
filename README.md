@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, my name is Oscar 👋
+
+- 🌱 I’m currently learning Javascript 
+- - 📫 How to reach me: https://osdiazl.cl/
 
 <!--
 **Osc4rrr/osc4rrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
